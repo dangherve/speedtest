@@ -11,3 +11,5 @@ results/speedtest_telemetry.db-shm
 results/speedtest_telemetry.db-wal
 
 !buildTools
+
+!.woodpecker
