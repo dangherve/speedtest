@@ -9,3 +9,5 @@ test-results/
 results/speedtest_telemetry.db
 results/speedtest_telemetry.db-shm
 results/speedtest_telemetry.db-wal
+
+!buildTools
